@@ -5,13 +5,20 @@
 <img src="https://media.tenor.com/jeYb8iK3YfsAAAAj/skull-skullgif.gif" width="30px">&nbsp;***About me***
 
 I'm an undergraduate Software Engineering student at UDC. Java, HTML, Css and python are the programming languages I am good at. I love to learn and build new things, productive, innovative and creative.
-* **I am interested in Web designing, Bot Development, and CyberSecurity **
+* **I am interested in Web designing, Bot Development, and CyberSecurity**
 - 💫 I’m currently learning ...
   - Java
   - python
+    
 - ♾️ I’m looking forward to collaborate on open source projects.
+
 - ✔ Ask me about anything, I'm happy to help<br>
-- 🖌️ I love to do drawings and skecthing, 🎵 listen to music, and 🌃 explore the night city.
+
+- 💫 I love to do ...
+  - ✍️Paints and sketching
+  - 🎵listen to music
+  - 🌃 explore the night city.
+  
 - 📫 Reach out to me at: <a href="y4ncxx@gmail.com">y4ncxx@gmail.com</a>
 
 <!--
